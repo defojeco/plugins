@@ -92,3 +92,6 @@
 [submodule "ctfd-plugin-webhooks"]
 	path = ctfd-plugin-webhooks
 	url = https://github.com/u-ctf/ctfd-plugin-webhooks
+[submodule "CTFd-solve-fx"]
+	path = CTFd-Solve-FX
+	url = https://github.com/2alf/CTFd-solve-FX
